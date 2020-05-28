@@ -1,0 +1,149 @@
+#title{
+  background-color:#ff4c68;
+  color: white;
+  line-height: 2;
+
+}
+#features{
+  background-color: white;
+  padding: 7rem 7rem;
+  padding-bottom: 8rem;
+  position: relative;
+  top: -20.7rem;
+  text-align:center;
+  line-height: 2;
+}
+#testimonials{
+  text-align: center;
+  background-color:#ff4c68;
+  margin-top: 0;
+  padding-top: 2%;
+  padding: 5%;
+}
+#press{
+  text-align: center;
+  background-color:#ff4c68;
+  margin-top: 0;
+  padding-top: 3.5%;
+  padding-bottom: 6%;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+#pricing{
+  margin-top: -17%;
+}
+#cta{
+  text-align: center;
+  background-color:#8f8f8f;
+  padding: 7%;
+}
+#footer{
+  text-align: center;
+}
+h1{
+font-family: 'Montserrat';
+font-size: 3rem;
+line-height: 1.5;
+}
+h2{
+  font-family: 'Montserrat';
+  color: #fff;
+  font-size: 2rem;
+  padding: 3%;
+}
+h3{
+font-family: 'Montserrat';
+font-weight: lighter;
+font-size: 1.5rem;
+/* line-height: 2; */
+}
+p{
+  color: #8f8f8f;
+  line-height: 2;
+}
+.container-fluid{
+  padding: 3% 15%;
+  text-align: left;
+
+
+}
+.iphone{
+  transform: scale(0.65) rotate(25deg);
+}
+.iphn{
+  position: relative;
+  top: -4rem;
+  left: -3rem;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-left: 0;
+}
+
+.nav-item{
+padding-top: 0;
+padding-left: 1rem;
+padding-right: 1rem;
+font-size: 1.1rem;
+}
+.align_1{
+  position: relative;
+  top: 2.5rem;
+  left: 1rem;
+}
+ .btn  {
+  margin-top: 1.2rem;
+  margin-right: 0.7rem;
+}
+.featurebox{
+  padding:5%;
+}
+.featureicons{
+  padding: 5%;
+  color:#ff4c68;
+  transition: transform .3s;
+}
+.featureicons:hover{
+  color: #f40552;
+  transform: scale(1.5);
+}
+.rowfeature{
+  padding-top: 7%;
+}
+.testandpress{
+  position: relative;
+  text-align: center;
+  top: -18rem;
+}
+.pressicon{
+  margin-top:2rem;
+  transition: transform .3s;
+}
+.testimage{
+  transform:scale(0.5);
+  border-radius: 100%;
+  margin: none;
+  margin-top: -5%;
+  margin-bottom: -5%;
+  transition: transform .3s;
+}
+.testimage:hover {
+  transform: scale(0.4);
+}
+.pressicon:hover{
+  transform: scale(1.1);
+}
+.switchbuttons{
+  margin: -2%;
+  margin-top: 13%;
+}
+.price{
+  transition: transform 0.3s;
+transform: scale(0.95);
+  text-align: center;
+  /* margin: 5px; */
+}
+.price:hover{
+  transform: scale(1);
+}
